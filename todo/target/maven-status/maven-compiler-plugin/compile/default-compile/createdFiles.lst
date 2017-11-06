@@ -1,0 +1,5 @@
+com/app/todo/repositories/TodoRepository.class
+com/app/todo/controller/TodoController.class
+com/app/todo/TodoApplication.class
+com/app/todo/ServletInitializer.class
+com/app/todo/model/Todo.class
